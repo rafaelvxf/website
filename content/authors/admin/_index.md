@@ -16,10 +16,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 # Interests to show in About widget
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Empirical Corporate Finance
+- Law and Finance
+- Labor Economics
+- Applied Micro
 
 # Education to show in About widget
 #education:
