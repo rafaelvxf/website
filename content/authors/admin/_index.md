@@ -45,16 +45,13 @@ social:
   link: http://lattes.cnpq.br/1719979868537233
 - icon: linkedin
   icon_pack: fab
-  link: http://linkedin.com
+  link: https://www.linkedin.com/in/rafaelvxferreira/
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RafaelvFerreira
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/rafaelvxf
