@@ -43,7 +43,7 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/1719979868537233
-- icon: lattes
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2061-7115
 - icon: linkedin
