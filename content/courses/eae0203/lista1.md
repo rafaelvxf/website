@@ -8,7 +8,7 @@ draft: false
 menu:
   example:
     parent: Listas de Exercício
-    weight: 2
+    weight: 20
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 20

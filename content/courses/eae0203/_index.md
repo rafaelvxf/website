@@ -57,7 +57,7 @@ Aulas e monitorias serão realizadas pelo Zoom. Os links de acesso estarão disp
 
 ## Métodos de Avaliação
 
-$ \mathrm{Nota \ Final} = \dfrac{(25\times \mathrm{P1}) + (30\times \mathrm{P2}) + (35\times \mathrm{P3}) + (15\times \mathrm{Listas})}{100}$ 
+
 
 ### Listas de Exercício
 
@@ -81,13 +81,26 @@ Cada uma das provas terá uma questão semelhante a uma das questões das listas
 
 ### Provas
 
+#### Provas Regulares
+
+#### Reavaliação
+
 #### Provas Substitutivas
 
 Não haverá provas substitutivas. Mas se você perder uma das provas, poderá realizar a Reaval como se fosse a substitutiva. A nota da Reaval substituirá a prova que você perdeu. Se você perder mais de uma prova, a Reaval substituirá a prova com maior peso.
 
+### Nota Final
+
+$ \mathrm{Nota \ Final} = \dfrac{(25\times \mathrm{P1}) + (30\times \mathrm{P2}) + (30\times \mathrm{P3}) + (15\times \mathrm{Listas})}{100}$ 
+
 ## Controle de Frequência
 
+
+
+
 ## Horários de Atendimento
+
+Se você tiver q
 
 ## Problemas durante o curso
 
@@ -124,8 +137,11 @@ Não haverá provas substitutivas. Mas se você perder uma das provas, poderá r
 10. Equação de Slutsky, efeito-renda e efeito-substituição. Aplicação: Índices de Preços
     - Prova 1
 11. Análise de Bem-Estar. Excedente do Consumidor, Variação Equivalente e Variação Compensatória. Aplicação: Carbon Taxes.
-12. Preferência Revelada. Aplicação: Médicos no interior do Brasil. Paper da Letícia.
-13. Preferência Revelada. Aplicação: Tinder, Happn, Grindr, Bumble.
+12. Preferência Revelada. 
+13. Aplicações da Teoria da Preferência Revelada. 
+    + Tinder, Happn, Grindr, Bumble.
+    + Médicos no interior do Brasil. Paper da Letícia.
+    + Modelos Hedônicos
 13. Escolha Intertemporal
 13. Oferta de Trabalho
     + Aplicação:
@@ -189,6 +205,6 @@ Or, if you are creating a software documentation site, you can rename the `cours
   weight = 50
 ```
 
-## Update the docs menu
+# Update the docs menu
 
 If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
