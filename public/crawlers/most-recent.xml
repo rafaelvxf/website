@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+   <channel>
+      <title>Wiley: Econometrica: Table of Contents</title>
+      <link>https://www.onlinelibrary.wiley.com/journal/14680262?af=R</link>
+      <description>Table of Contents for Econometrica. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© The Econometric Society</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+      <pubDate>Wed, 10 Mar 2021 07:05:49 +0000</pubDate>
+      <lastBuildDate>Wed, 10 Mar 2021 07:05:49 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: Econometrica: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>Econometrica</prism:publicationName>
+      <atom:link href="https://www.onlinelibrary.wiley.com/journal/14680262?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: Econometrica: Table of Contents</title>
+         <url>https://www.onlinelibrary.wiley.com/pb-assets/journal-banners/14680262.jpg</url>
+         <link>https://www.onlinelibrary.wiley.com/journal/14680262?af=R</link>
+      </image>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891FORTH?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891FORTH</guid>
+         <title>Forthcoming Papers</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 507-507, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Forthcoming Papers</category>
+         <dc:title>Forthcoming Papers</dc:title>
+         <dc:identifier>10.3982/ECTA891FORTH</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891FORTH</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891FORTH?af=R</prism:url>
+         <prism:section>Forthcoming Papers</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891MONO?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891MONO</guid>
+         <title>The Econometric Society Annual Reports Report of the Editors of the Monograph Series</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 549-551, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Report of the Editors of the Monograph Series</category>
+         <dc:title>The Econometric Society Annual Reports Report of the Editors of the Monograph Series</dc:title>
+         <dc:identifier>10.3982/ECTA891MONO</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891MONO</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891MONO?af=R</prism:url>
+         <prism:section>Report of the Editors of the Monograph Series</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891SUM?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891SUM</guid>
+         <title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 553-553, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Submission of Manuscripts to the Econometric Society Monograph Series</category>
+         <dc:title>Submission of Manuscripts to the Econometric Society Monograph Series</dc:title>
+         <dc:identifier>10.3982/ECTA891SUM</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891SUM</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891SUM?af=R</prism:url>
+         <prism:section>Submission of Manuscripts to the Econometric Society Monograph Series</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891FM?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891FM</guid>
+         <title>Frontmatter of Econometrica Vol. 89 Iss. 1</title>
+         <description>Econometrica, Volume 89, Issue 1, Page i-ii, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Miscellaneous prelims</category>
+         <dc:title>Frontmatter of Econometrica Vol. 89 Iss. 1</dc:title>
+         <dc:identifier>10.3982/ECTA891FM</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891FM</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891FM?af=R</prism:url>
+         <prism:section>Miscellaneous prelims</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891BM?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891BM</guid>
+         <title>Backmatter of Econometrica Vol. 89 Iss. 1</title>
+         <description>Econometrica, Volume 89, Issue 1, Page iii-v, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Miscellaneous back matter</category>
+         <dc:title>Backmatter of Econometrica Vol. 89 Iss. 1</dc:title>
+         <dc:identifier>10.3982/ECTA891BM</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891BM</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891BM?af=R</prism:url>
+         <prism:section>Miscellaneous back matter</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891EDS?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891EDS</guid>
+         <title>The Econometric Society Annual Reports Report of the Editors 2019–2020</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 533-536, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Report of the Editors</category>
+         <dc:title>The Econometric Society Annual Reports Report of the Editors 2019–2020</dc:title>
+         <dc:identifier>10.3982/ECTA891EDS</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891EDS</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891EDS?af=R</prism:url>
+         <prism:section>Report of the Editors</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891REF?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891REF</guid>
+         <title>The Econometric Society Annual Reports Econometrica Referees 2019–2020</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 537-548, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Econometrica Referees</category>
+         <dc:title>The Econometric Society Annual Reports Econometrica Referees 2019–2020</dc:title>
+         <dc:identifier>10.3982/ECTA891REF</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891REF</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891REF?af=R</prism:url>
+         <prism:section>Econometrica Referees</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891SEC?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891SEC</guid>
+         <title>The Econometric Society Annual Reports Report of the Secretary</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 509-522, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Report of the Secretary</category>
+         <dc:title>The Econometric Society Annual Reports Report of the Secretary</dc:title>
+         <dc:identifier>10.3982/ECTA891SEC</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891SEC</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891SEC?af=R</prism:url>
+         <prism:section>Report of the Secretary</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891TREAS?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA891TREAS</guid>
+         <title>The Econometric Society Annual Reports Report of the Treasurer</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 523-531, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Report of the Treasurer</category>
+         <dc:title>The Econometric Society Annual Reports Report of the Treasurer</dc:title>
+         <dc:identifier>10.3982/ECTA891TREAS</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA891TREAS</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA891TREAS?af=R</prism:url>
+         <prism:section>Report of the Treasurer</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17378?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17378</guid>
+         <title>A Practical Guide to Updating Beliefs From Contradictory Evidence</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 415-436, January 2021. </description>
+         <dc:description>
+We often make high stakes choices based on complex information that we have no way to verify. Careful Bayesian reasoning—assessing every reason why a claim could be false or misleading—is not feasible, so we necessarily act on faith: we trust certain sources and treat claims as if they were direct observations of payoff relevant events. This creates a challenge when trusted sources conflict: Practically speaking, is there a principled way to update beliefs in response to contradictory claims? I propose a model of belief formation along with several updating axioms. An impossibility theorem shows there is no obvious best answer, while a representation theorem delineates the boundary of what is possible.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We often make high stakes choices based on complex information that we have no way to verify. Careful Bayesian reasoning—assessing every reason why a claim could be false or misleading—is not feasible, so we necessarily act on faith: we trust certain sources and treat claims as if they were direct observations of payoff relevant events. This creates a challenge when trusted sources conflict: Practically speaking, is there a principled way to update beliefs in response to contradictory claims? I propose a model of belief formation along with several updating axioms. An impossibility theorem shows there is no obvious best answer, while a representation theorem delineates the boundary of what is possible.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Evan Sadler
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>A Practical Guide to Updating Beliefs From Contradictory Evidence</dc:title>
+         <dc:identifier>10.3982/ECTA17378</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17378</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17378?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15579?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA15579</guid>
+         <title>Instability of Centralized Markets</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 163-179, January 2021. </description>
+         <dc:description>
+Centralized markets reduce search for buyers and sellers. Their “thickness” increases the chance of order execution at nearly competitive prices. In spite of the incentives to consolidate, some markets, securities markets and on‐line advertising being the most notable, are fragmented into multiple trading venues. We argue that fragmentation is an inevitable feature of any centralized market except in special circumstances.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Centralized markets reduce search for buyers and sellers. Their “thickness” increases the chance of order execution at nearly competitive prices. In spite of the incentives to consolidate, some markets, securities markets and on‐line advertising being the most notable, are fragmented into multiple trading venues. We argue that fragmentation is an inevitable feature of any centralized market except in special circumstances.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Ahmad Peivandi, 
+Rakesh V. Vohra
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Instability of Centralized Markets</dc:title>
+         <dc:identifier>10.3982/ECTA15579</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA15579</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15579?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15873?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA15873</guid>
+         <title>Policy Persistence and Drift in Organizations</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 251-279, January 2021. </description>
+         <dc:description>
+This paper models the evolution of organizations that allow free entry and exit of members, such as cities and trade unions. In each period, current members choose a policy for the organization. Policy changes attract newcomers and drive away dissatisfied members, altering the set of future policymakers. The resulting feedback effects take the organization down a “slippery slope” that converges to a myopically stable policy, even if the agents are forward‐looking, but convergence becomes slower the more patient they are. The model yields a tractable characterization of the steady state and the transition dynamics. The analysis is also extended to situations in which the organization can exclude members, such as enfranchisement and immigration.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;This paper models the evolution of organizations that allow free entry and exit of members, such as cities and trade unions. In each period, current members choose a policy for the organization. Policy changes attract newcomers and drive away dissatisfied members, altering the set of future policymakers. The resulting feedback effects take the organization down a “slippery slope” that converges to a myopically stable policy, even if the agents are forward‐looking, but convergence becomes slower the more patient they are. The model yields a tractable characterization of the steady state and the transition dynamics. The analysis is also extended to situations in which the organization can exclude members, such as enfranchisement and immigration.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Germán Gieczewski
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Policy Persistence and Drift in Organizations</dc:title>
+         <dc:identifier>10.3982/ECTA15873</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA15873</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15873?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA16317?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA16317</guid>
+         <title>Structural Change With Long‐Run Income and Price Effects</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 311-374, January 2021. </description>
+         <dc:description>
+We present a new multi‐sector growth model that features nonhomothetic, constant elasticity of substitution preferences, and accommodates long‐run demand and supply drivers of structural change for an arbitrary number of sectors. The model is consistent with the decline in agriculture, the hump‐shaped evolution of manufacturing, and the rise of services over time. We estimate the demand system derived from the model using household‐level data from the United States and India, as well as historical aggregate‐level panel data for 39 countries during the postwar period. The estimated model parsimoniously accounts for the broad patterns of sectoral reallocation observed among rich, miracle, and developing economies. Our estimates support the presence of strong nonhomotheticity across time, income levels, and countries. We find that income effects account for the bulk of the within‐country evolution of sectoral reallocation.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We present a new multi‐sector growth model that features nonhomothetic, constant elasticity of substitution preferences, and accommodates long‐run demand and supply drivers of structural change for an arbitrary number of sectors. The model is consistent with the decline in agriculture, the hump‐shaped evolution of manufacturing, and the rise of services over time. We estimate the demand system derived from the model using household‐level data from the United States and India, as well as historical aggregate‐level panel data for 39 countries during the postwar period. The estimated model parsimoniously accounts for the broad patterns of sectoral reallocation observed among rich, miracle, and developing economies. Our estimates support the presence of strong nonhomotheticity across time, income levels, and countries. We find that income effects account for the bulk of the within‐country evolution of sectoral reallocation.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Diego Comin, 
+Danial Lashkari, 
+Martí Mestieri
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Structural Change With Long‐Run Income and Price Effects</dc:title>
+         <dc:identifier>10.3982/ECTA16317</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA16317</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA16317?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA16901?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA16901</guid>
+         <title>Deep Neural Networks for Estimation and Inference</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 181-213, January 2021. </description>
+         <dc:description>
+We study deep neural networks and their use in semiparametric inference. We establish novel nonasymptotic high probability bounds for deep feedforward neural nets. These deliver rates of convergence that are sufficiently fast (in some cases minimax optimal) to allow us to establish valid second‐step inference after first‐step estimation with deep learning, a result also new to the literature. Our nonasymptotic high probability bounds, and the subsequent semiparametric inference, treat the current standard architecture: fully connected feedforward neural networks (multilayer perceptrons), with the now‐common rectified linear unit activation function, unbounded weights, and a depth explicitly diverging with the sample size. We discuss other architectures as well, including fixed‐width, very deep networks. We establish the nonasymptotic bounds for these deep nets for a general class of nonparametric regression‐type loss functions, which includes as special cases least squares, logistic regression, and other generalized linear models. We then apply our theory to develop semiparametric inference, focusing on causal parameters for concreteness, and demonstrate the effectiveness of deep learning with an empirical application to direct mail marketing.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We study deep neural networks and their use in semiparametric inference. We establish novel nonasymptotic high probability bounds for deep feedforward neural nets. These deliver rates of convergence that are sufficiently fast (in some cases minimax optimal) to allow us to establish valid second‐step inference after first‐step estimation with deep learning, a result also new to the literature. Our nonasymptotic high probability bounds, and the subsequent semiparametric inference, treat the current standard architecture: fully connected feedforward neural networks (multilayer perceptrons), with the now‐common rectified linear unit activation function, unbounded weights, and a depth explicitly diverging with the sample size. We discuss other architectures as well, including fixed‐width, very deep networks. We establish the nonasymptotic bounds for these deep nets for a general class of nonparametric regression‐type loss functions, which includes as special cases least squares, logistic regression, and other generalized linear models. We then apply our theory to develop semiparametric inference, focusing on causal parameters for concreteness, and demonstrate the effectiveness of deep learning with an empirical application to direct mail marketing.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Max H. Farrell, 
+Tengyuan Liang, 
+Sanjog Misra
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Deep Neural Networks for Estimation and Inference</dc:title>
+         <dc:identifier>10.3982/ECTA16901</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA16901</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA16901?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15293?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA15293</guid>
+         <title>Dynamic Belief Elicitation</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 375-414, January 2021. </description>
+         <dc:description>
+At an initial time, an individual forms a belief about a future random outcome. As time passes, the individual may obtain, privately or subjectively, further information, until the outcome is eventually revealed. How can a protocol be devised that induces the individual, as a strict best response, to reveal at the outset his prior assessment of both the final outcome and the information flows he anticipates and, subsequently, what information he privately receives? The protocol can provide the individual with payoffs that depend only on the outcome realization and his reports. We develop a framework to design such protocols, and apply it to construct simple elicitation mechanisms for common dynamic environments. The framework is general: we show that strategyproof protocols exist for any number of periods and large outcome sets. For these more general settings, we build a family of strategyproof protocols based on a hierarchy of choice menus, and show that any strategyproof protocol can be approximated by a protocol of this family.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;At an initial time, an individual forms a belief about a future random outcome. As time passes, the individual may obtain, privately or subjectively, further information, until the outcome is eventually revealed. How can a protocol be devised that induces the individual, as a strict best response, to reveal at the outset his prior assessment of both the final outcome and the information flows he anticipates and, subsequently, what information he privately receives? The protocol can provide the individual with payoffs that depend only on the outcome realization and his reports. We develop a framework to design such protocols, and apply it to construct simple elicitation mechanisms for common dynamic environments. The framework is general: we show that strategyproof protocols exist for any number of periods and large outcome sets. For these more general settings, we build a family of strategyproof protocols based on a hierarchy of choice menus, and show that any strategyproof protocol can be approximated by a protocol of this family.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Christopher P. Chambers, 
+Nicolas S. Lambert
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Dynamic Belief Elicitation</dc:title>
+         <dc:identifier>10.3982/ECTA15293</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA15293</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15293?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15732?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA15732</guid>
+         <title>Policy Learning With Observational Data</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 133-161, January 2021. </description>
+         <dc:description>
+In many areas, practitioners seek to use observational data to learn a treatment assignment policy that satisfies application‐specific constraints, such as budget, fairness, simplicity, or other functional form constraints. For example, policies may be restricted to take the form of decision trees based on a limited set of easily observable individual characteristics. We propose a new approach to this problem motivated by the theory of semiparametrically efficient estimation. Our method can be used to optimize either binary treatments or infinitesimal nudges to continuous treatments, and can leverage observational data where causal effects are identified using a variety of strategies, including selection on observables and instrumental variables. Given a doubly robust estimator of the causal effect of assigning everyone to treatment, we develop an algorithm for choosing whom to treat, and establish strong guarantees for the asymptotic utilitarian regret of the resulting policy.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;In many areas, practitioners seek to use observational data to learn a treatment assignment policy that satisfies application‐specific constraints, such as budget, fairness, simplicity, or other functional form constraints. For example, policies may be restricted to take the form of decision trees based on a limited set of easily observable individual characteristics. We propose a new approach to this problem motivated by the theory of semiparametrically efficient estimation. Our method can be used to optimize either binary treatments or infinitesimal nudges to continuous treatments, and can leverage observational data where causal effects are identified using a variety of strategies, including selection on observables and instrumental variables. Given a doubly robust estimator of the causal effect of assigning everyone to treatment, we develop an algorithm for choosing whom to treat, and establish strong guarantees for the asymptotic utilitarian regret of the resulting policy.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Susan Athey, 
+Stefan Wager
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Policy Learning With Observational Data</dc:title>
+         <dc:identifier>10.3982/ECTA15732</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA15732</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15732?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17017?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17017</guid>
+         <title>Equilibrium Allocations Under Alternative Waitlist Designs: Evidence From Deceased Donor Kidneys</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 37-76, January 2021. </description>
+         <dc:description>
+Waitlists are often used to ration scarce resources, but the trade‐offs in designing these mechanisms depend on agents' preferences. We study equilibrium allocations under alternative designs for the deceased donor kidney waitlist. We model the decision to accept an organ or wait for a preferable one as an optimal stopping problem and estimate preferences using administrative data from the New York City area. Our estimates show that while some kidney types are desirable for all patients, there is substantial match‐specific heterogeneity in values. We then develop methods to evaluate alternative mechanisms, comparing their effects on patient welfare to an equivalent change in donor supply. Past reforms to the kidney waitlist primarily resulted in redistribution, with similar welfare and organ discard rates to the benchmark first‐come, first‐served mechanism. These mechanisms and other commonly studied theoretical benchmarks remain far from optimal. We design a mechanism that increases patient welfare by the equivalent of an 18.2% increase in donor supply.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Waitlists are often used to ration scarce resources, but the trade‐offs in designing these mechanisms depend on agents' preferences. We study equilibrium allocations under alternative designs for the deceased donor kidney waitlist. We model the decision to accept an organ or wait for a preferable one as an optimal stopping problem and estimate preferences using administrative data from the New York City area. Our estimates show that while some kidney types are desirable for all patients, there is substantial match‐specific heterogeneity in values. We then develop methods to evaluate alternative mechanisms, comparing their effects on patient welfare to an equivalent change in donor supply. Past reforms to the kidney waitlist primarily resulted in redistribution, with similar welfare and organ discard rates to the benchmark first‐come, first‐served mechanism. These mechanisms and other commonly studied theoretical benchmarks remain far from optimal. We design a mechanism that increases patient welfare by the equivalent of an 18.2% increase in donor supply.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Nikhil Agarwal, 
+Itai Ashlagi, 
+Michael A. Rees, 
+Paulo Somaini, 
+Daniel Waldinger
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Equilibrium Allocations Under Alternative Waitlist Designs: Evidence From Deceased Donor Kidneys</dc:title>
+         <dc:identifier>10.3982/ECTA17017</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17017</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17017?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17548?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17548</guid>
+         <title>From Blackwell Dominance in Large Samples to Rényi Divergences and Back Again</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 475-506, January 2021. </description>
+         <dc:description>
+We study repeated independent Blackwell experiments; standard examples include drawing multiple samples from a population, or performing a measurement in different locations. In the baseline setting of a binary state of nature, we compare experiments in terms of their informativeness in large samples. Addressing a question due to Blackwell (1951), we show that generically an experiment is more informative than another in large samples if and only if it has higher Rényi divergences.
+We apply our analysis to the problem of measuring the degree of dissimilarity between distributions by means of divergences. A useful property of Rényi divergences is their additivity with respect to product distributions. Our characterization of Blackwell dominance in large samples implies that every additive divergence that satisfies the data processing inequality is an integral of Rényi divergences.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We study repeated independent Blackwell experiments; standard examples include drawing multiple samples from a population, or performing a measurement in different locations. In the baseline setting of a binary state of nature, we compare experiments in terms of their informativeness in large samples. Addressing a question due to Blackwell (1951), we show that generically an experiment is more informative than another in large samples if and only if it has higher Rényi divergences.&lt;/p&gt;
+&lt;p&gt;We apply our analysis to the problem of measuring the degree of dissimilarity between distributions by means of divergences. A useful property of Rényi divergences is their additivity with respect to product distributions. Our characterization of Blackwell dominance in large samples implies that every additive divergence that satisfies the data processing inequality is an integral of Rényi divergences.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Xiaosheng Mu, 
+Luciano Pomatto, 
+Philipp Strack, 
+Omer Tamuz
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>From Blackwell Dominance in Large Samples to Rényi Divergences and Back Again</dc:title>
+         <dc:identifier>10.3982/ECTA17548</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17548</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17548?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15641?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA15641</guid>
+         <title>Media Capture Through Favor Exchange</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 281-310, January 2021. </description>
+         <dc:description>
+We use data from Hungary to establish two results about the relationship between the government and the media. (i) We document large advertising favors from the government to connected media, and large corruption coverage favors from connected media to the government. Our empirical strategy exploits sharp reallocations around changes in media ownership and other events to rule out market‐based explanations. (ii) Under the assumptions of a structural model, we distinguish between owner ideology and favor exchange as the mechanism driving favors. We estimate our model exploiting within‐owner changes in coverage for identification and find that both mechanisms are important. These results imply that targeted government advertising can meaningfully influence content. Counterfactuals show that targeted advertising can also influence owner ideology, by making media ownership more profitable to pro‐government connected investors. Our results are consistent with qualitative evidence from many democracies and suggest that government advertising affects media content worldwide.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We use data from Hungary to establish two results about the relationship between the government and the media. (i) We document large advertising favors from the government to connected media, and large corruption coverage favors from connected media to the government. Our empirical strategy exploits sharp reallocations around changes in media ownership and other events to rule out market‐based explanations. (ii) Under the assumptions of a structural model, we distinguish between owner ideology and favor exchange as the mechanism driving favors. We estimate our model exploiting within‐owner changes in coverage for identification and find that both mechanisms are important. These results imply that targeted government advertising can meaningfully influence content. Counterfactuals show that targeted advertising can also influence owner ideology, by making media ownership more profitable to pro‐government connected investors. Our results are consistent with qualitative evidence from many democracies and suggest that government advertising affects media content worldwide.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Adam Szeidl, 
+Ferenc Szucs
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Media Capture Through Favor Exchange</dc:title>
+         <dc:identifier>10.3982/ECTA15641</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA15641</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA15641?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17605?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17605</guid>
+         <title>Nonparametric Analysis of Random Utility Models: Computational Tools for Statistical Testing</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 437-455, January 2021. </description>
+         <dc:description>
+Kitamura and Stoye (2018) recently proposed a nonparametric statistical test for random utility models of consumer behavior. The test is formulated in terms of linear inequality constraints and a quadratic objective function. While the nonparametric test is conceptually appealing, its practical implementation is computationally challenging. In this paper, we develop a column generation approach to operationalize the test. These novel computational tools generate considerable computational gains in practice, which substantially increases the empirical usefulness of Kitamura and Stoye's statistical test.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Kitamura and Stoye (2018) recently proposed a nonparametric statistical test for random utility models of consumer behavior. The test is formulated in terms of linear inequality constraints and a quadratic objective function. While the nonparametric test is conceptually appealing, its practical implementation is computationally challenging. In this paper, we develop a column generation approach to operationalize the test. These novel computational tools generate considerable computational gains in practice, which substantially increases the empirical usefulness of Kitamura and Stoye's statistical test.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Bart Smeulders, 
+Laurens Cherchye, 
+Bram De Rock
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Nonparametric Analysis of Random Utility Models: Computational Tools for Statistical Testing</dc:title>
+         <dc:identifier>10.3982/ECTA17605</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17605</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17605?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17536?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17536</guid>
+         <title>The “New” Economics of Trade Agreements: From Trade Liberalization to Regulatory Convergence?</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 215-249, January 2021. </description>
+         <dc:description>
+What incentives do governments have to negotiate trade agreements that constrain their domestic regulatory policies? We study a model in which firms design products to appeal to local consumer tastes, but their fixed costs increase with the difference between versions of their product destined for different markets. In this setting, firms' profit‐maximizing choices of product attributes are globally optimal in the absence of consumption externalities, but national governments have unilateral incentives to invoke regulatory protectionism to induce firm delocation. An efficient trade agreement requires commitments not to engage in such opportunistic behavior. A rule requiring mutual recognition of standards can be used to achieve efficiency, but one that requires only national treatment falls short. When product attributes confer local consumption externalities, an efficient trade agreement must coordinate the fine details of countries' regulatory policies.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;What incentives do governments have to negotiate trade agreements that constrain their domestic regulatory policies? We study a model in which firms design products to appeal to local consumer tastes, but their fixed costs increase with the difference between versions of their product destined for different markets. In this setting, firms' profit‐maximizing choices of product attributes are globally optimal in the absence of consumption externalities, but national governments have unilateral incentives to invoke regulatory protectionism to induce firm delocation. An efficient trade agreement requires commitments not to engage in such opportunistic behavior. A rule requiring mutual recognition of standards can be used to achieve efficiency, but one that requires only national treatment falls short. When product attributes confer local consumption externalities, an efficient trade agreement must coordinate the fine details of countries' regulatory policies.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Gene M. Grossman, 
+Phillip McCalman, 
+Robert W. Staiger
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>The “New” Economics of Trade Agreements: From Trade Liberalization to Regulatory Convergence?</dc:title>
+         <dc:identifier>10.3982/ECTA17536</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17536</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17536?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA16801?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA16801</guid>
+         <title>The Empirical Content of Binary Choice Models</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 457-474, January 2021. </description>
+         <dc:description>
+An important goal of empirical demand analysis is choice and welfare prediction on counterfactual budget sets arising from potential policy interventions. Such predictions are more credible when made without arbitrary functional‐form/distributional assumptions, and instead based solely on economic rationality, that is, that choice is consistent with utility maximization by a heterogeneous population. This paper investigates nonparametric economic rationality in the empirically important context of binary choice. We show that under general unobserved heterogeneity, economic rationality is equivalent to a pair of Slutsky‐like shape restrictions on choice‐probability functions. The forms of these restrictions differ from Slutsky inequalities for continuous goods. Unlike McFadden–Richter's stochastic revealed preference, our shape restrictions (a) are global, that is, their forms do not depend on which and how many budget sets are observed, (b) are closed form, hence easy to impose on parametric/semi/nonparametric models in practical applications, and (c) provide computationally simple, theory‐consistent bounds on demand and welfare predictions on counterfactual budge sets.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;An important goal of empirical demand analysis is choice and welfare prediction on counterfactual budget sets arising from potential policy interventions. Such predictions are more credible when made without arbitrary functional‐form/distributional assumptions, and instead based solely on economic rationality, that is, that choice is consistent with utility maximization by a heterogeneous population. This paper investigates nonparametric economic rationality in the empirically important context of binary choice. We show that under general unobserved heterogeneity, economic rationality is equivalent to a pair of Slutsky‐like shape restrictions on choice‐probability functions. The forms of these restrictions differ from Slutsky inequalities for continuous goods. Unlike McFadden–Richter's stochastic revealed preference, our shape restrictions (a) are global, that is, their forms do not depend on which and how many budget sets are observed, (b) are closed form, hence easy to impose on parametric/semi/nonparametric models in practical applications, and (c) provide computationally simple, theory‐consistent bounds on demand and welfare predictions on counterfactual budge sets.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Debopam Bhattacharya
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>The Empirical Content of Binary Choice Models</dc:title>
+         <dc:identifier>10.3982/ECTA16801</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA16801</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA16801?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17527?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17527</guid>
+         <title>Adaptive Treatment Assignment in Experiments for Policy Choice</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 113-132, January 2021. </description>
+         <dc:description>
+Standard experimental designs are geared toward point estimation and hypothesis testing, while bandit algorithms are geared toward in‐sample outcomes. Here, we instead consider treatment assignment in an experiment with several waves for choosing the best among a set of possible policies (treatments) at the end of the experiment. We propose a computationally tractable assignment algorithm that we call “exploration sampling,” where assignment probabilities in each wave are an increasing concave function of the posterior probabilities that each treatment is optimal. We prove an asymptotic optimality result for this algorithm and demonstrate improvements in welfare in calibrated simulations over both non‐adaptive designs and bandit algorithms. An application to selecting between six different recruitment strategies for an agricultural extension service in India demonstrates practical feasibility.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Standard experimental designs are geared toward point estimation and hypothesis testing, while bandit algorithms are geared toward in‐sample outcomes. Here, we instead consider treatment assignment in an experiment with several waves for choosing the best among a set of possible policies (treatments) at the end of the experiment. We propose a computationally tractable assignment algorithm that we call “exploration sampling,” where assignment probabilities in each wave are an increasing concave function of the posterior probabilities that each treatment is optimal. We prove an asymptotic optimality result for this algorithm and demonstrate improvements in welfare in calibrated simulations over both non‐adaptive designs and bandit algorithms. An application to selecting between six different recruitment strategies for an agricultural extension service in India demonstrates practical feasibility.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Maximilian Kasy, 
+Anja Sautmann
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Adaptive Treatment Assignment in Experiments for Policy Choice</dc:title>
+         <dc:identifier>10.3982/ECTA17527</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17527</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17527?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17440?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:35:21 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17440</guid>
+         <title>A Preferred‐Habitat Model of the Term Structure of Interest Rates</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 77-112, January 2021. </description>
+         <dc:description>
+We model the term structure of interest rates that results from the interaction between investors with preferences for specific maturities and risk‐averse arbitrageurs. Shocks to the short rate are transmitted to long rates through arbitrageurs' carry trades. Arbitrageurs earn rents from transmitting the shocks through bond risk premia that relate positively to the slope of the term structure. When the short rate is the only risk factor, changes in investor demand have the same relative effect on interest rates across maturities regardless of the maturities where they originate. When investor demand is also stochastic, demand effects become more localized. A calibration indicates that long rates underreact to forward‐guidance announcements about short rates. Large‐scale asset purchases can be more effective in moving long rates, especially if they are concentrated at long maturities.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We model the term structure of interest rates that results from the interaction between investors with preferences for specific maturities and risk‐averse arbitrageurs. Shocks to the short rate are transmitted to long rates through arbitrageurs' carry trades. Arbitrageurs earn rents from transmitting the shocks through bond risk premia that relate positively to the slope of the term structure. When the short rate is the only risk factor, changes in investor demand have the same relative effect on interest rates across maturities regardless of the maturities where they originate. When investor demand is also stochastic, demand effects become more localized. A calibration indicates that long rates underreact to forward‐guidance announcements about short rates. Large‐scale asset purchases can be more effective in moving long rates, especially if they are concentrated at long maturities.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Dimitri Vayanos, 
+Jean‐Luc Vila
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>A Preferred‐Habitat Model of the Term Structure of Interest Rates</dc:title>
+         <dc:identifier>10.3982/ECTA17440</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17440</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17440?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17018?af=R</link>
+         <pubDate>Fri, 15 Jan 2021 14:20:50 -0800</pubDate>
+         <source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA17018</guid>
+         <title>Intergenerational Mobility in Africa</title>
+         <description>Econometrica, Volume 89, Issue 1, Page 1-35, January 2021. </description>
+         <dc:description>
+We examine intergenerational mobility (IM) in educational attainment in Africa since independence using census data. First, we map IM across 27 countries and more than 2800 regions, documenting wide cross‐country and especially within‐country heterogeneity. Inertia looms large as differences in the literacy of the old generation explain about half of the observed spatial disparities in IM. The rural‐urban divide is substantial. Though conspicuous in some countries, there is no evidence of systematic gender gaps in IM. Second, we characterize the geography of IM, finding that colonial investments in railroads and Christian missions, as well as proximity to capitals and the coastline are the strongest correlates. Third, we ask whether the regional differences in mobility reflect spatial sorting or their independent role. To isolate the two, we focus on children whose families moved when they were young. Comparing siblings, looking at moves triggered by displacement shocks, and using historical migrations to predict moving‐families' destinations, we establish that, while selection is considerable, regional exposure effects are at play. An extra year spent in a high‐mobility region before the age of 12 (and after 5) significantly raises the likelihood for children of uneducated parents to complete primary school. Overall, the evidence suggests that geographic and historical factors laid the seeds for spatial disparities in IM that are cemented by sorting and the independent impact of regions.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We examine intergenerational mobility (IM) in educational attainment in Africa since independence using census data. First, we map IM across 27 countries and more than 2800 regions, documenting wide cross‐country and especially within‐country heterogeneity. Inertia looms large as differences in the literacy of the old generation explain about half of the observed spatial disparities in IM. The rural‐urban divide is substantial. Though conspicuous in some countries, there is no evidence of systematic gender gaps in IM. Second, we characterize the geography of IM, finding that colonial investments in railroads and Christian missions, as well as proximity to capitals and the coastline are the strongest correlates. Third, we ask whether the regional differences in mobility reflect spatial sorting or their independent role. To isolate the two, we focus on children whose families moved when they were young. Comparing siblings, looking at moves triggered by displacement shocks, and using historical migrations to predict moving‐families' destinations, we establish that, while selection is considerable, regional exposure effects are at play. An extra year spent in a high‐mobility region before the age of 12 (and after 5) significantly raises the likelihood for children of uneducated parents to complete primary school. Overall, the evidence suggests that geographic and historical factors laid the seeds for spatial disparities in IM that are cemented by sorting and the independent impact of regions.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Alberto Alesina, 
+Sebastian Hohmann, 
+Stelios Michalopoulos, 
+Elias Papaioannou
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Intergenerational Mobility in Africa</dc:title>
+         <dc:identifier>10.3982/ECTA17018</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA17018</prism:doi>
+         <prism:url>https://www.onlinelibrary.wiley.com/doi/10.3982/ECTA17018?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>89</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+   </channel>
+</rss>
