@@ -4,7 +4,6 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
     <title>NBER Working Papers</title>
-    <link>https://www.nber.org/papers?page=1&perPage=50&sortBy=public_date</link>
     <description>Table of Contents for Econometrica. List of articles from both the latest and EarlyView issues.</description>
     <language>en-US</language>
     <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
