@@ -4,6 +4,7 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
     <title>NBER Working Papers</title>
+    <link>https://www.nber.org/papers</link>
     <description>Table of Contents for Econometrica. List of articles from both the latest and EarlyView issues.</description>
     <language>en-US</language>
     <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
@@ -14,8 +15,7 @@
     <dc:title>NBER Working Papers</dc:title>
     <dc:publisher>National Bureau of Economic Research</dc:publisher>
     <prism:publicationName>NBER Working Papers</prism:publicationName>
-    <atom:link href="https://www.nber.org/papers?page=1&perPage=50&sortBy=public_date"
-    rel="self" type="application/atom+xml"/><item><itemType>report</itemType>
+    <atom:link href="https://www.nber.org/papers"/><item><itemType>report</itemType>
 <dc:creator>Martin A Isunget, Dalton Conley, Henrik D Zachrisson, Eivind Ystrøm, Alexandra Havdahl, Pål R Njølstad, Torkild H Lyngstad</dc:creator>
 <dc:title>Social and Genetic Effects on Educational Performance in Early Adolescence</dc:title>
 <institution>National Bureau of Economic Research</institution>
