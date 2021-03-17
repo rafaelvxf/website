@@ -1,0 +1,59 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+    <title>NBER Working Papers</title>
+    <link>https://www.nber.org/papers</link>
+    <description>Table of Contents for Econometrica. List of articles from both the latest and EarlyView issues.</description>
+    <language>en-US</language>
+    <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+    <pubDate>Wed, 10 Mar 2021 07:05:49 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Mar 2021 07:05:49 +0000</lastBuildDate>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <ttl>10080</ttl>
+    <dc:title>NBER Working Papers</dc:title>
+    <dc:publisher>National Bureau of Economic Research</dc:publisher>
+    <prism:publicationName>NBER Working Papers</prism:publicationName>
+    <atom:link href="https://www.nber.org/papers"
+    rel="self" type="application/atom+xml"/><item><title>What Explains Differences in Finance Research Productivity During the Pandemic?1</title>
+<description>teste</description>
+<pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+<source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R2">Wiley: Econometrica: Table of Contents</source>
+<dc:creator>Brad M Barber, Wei Jiang, Adair Morse, Manju Puri, Heather Tookes, Ingrid M Werner</dc:creator>
+<dc:title>What Explains Differences in Finance Research Productivity During the Pandemic?</dc:title>
+<dc:description>Using a survey of AFA members, we analyze how demographics, time allocation, production mechanisms, and institutional factors affect research production during the pandemic. Consistent with the literature, research productivity falls more for women and faculty with young children. Independently and novel, extra time spent teaching (much more likely for women) negatively affects research productivity. Also novel are the results that concerns about feedback, isolation, and health have large negative research effects, disproportionately affecting junior faculty and PhD students. Finally, faculty facing greater concerns about employers’ finances report larger negative research effects and more concerns about feedback, isolation and health.</dc:description>
+<prism:doi>10.3386/w28493</prism:doi>
+<prism:url>http://www.nber.org/papers/w28493</prism:url></item><item><title>The Gendered Impact of the COVID-19 Recession on the US Labor Market1</title>
+<description>teste</description>
+<pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+<source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R2">Wiley: Econometrica: Table of Contents</source>
+<dc:creator>Stefania Albanesi, Jiyeon Kim</dc:creator>
+<dc:title>The Gendered Impact of the COVID-19 Recession on the US Labor Market</dc:title>
+<dc:description>The economic crisis associated with the emergence of the novel corona virus is unlike standard recessions. Demand for workers in high contact and inflexible service occupations has declined, while parental supply of labor has been reduced by lack of access to reliable child care and in-person schooling options. This has led to a substantial and persistent drop in employment and labor force participation for women, who are typically less affected by recessions than men. We examine real time data on employment, unemployment, labor force participation and gross job flows to document the gendered impact of the pandemic. We also discuss the potential long-term implications of this crisis, including the role of automation in depressing the recovery of employment for the worst hit service occupations.</dc:description>
+<prism:doi>10.3386/w28505</prism:doi>
+<prism:url>http://www.nber.org/papers/w28505</prism:url></item><item><title>Global Pricing of Carbon-Transition Risk1</title>
+<description>teste</description>
+<pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+<source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R2">Wiley: Econometrica: Table of Contents</source>
+<dc:creator>Patrick Bolton, Marcin Kacperczyk</dc:creator>
+<dc:title>Global Pricing of Carbon-Transition Risk</dc:title>
+<dc:description>Companies are exposed to carbon-transition risk as the global economy transitions away from fossil fuels to renewable energy. We estimate the market-based premium associated with this transition risk at the firm level in a cross-section of over 14,400 firms in 77 countries. We find a widespread carbon premium—higher stock returns for companies with higher levels of carbon emissions (and higher annual changes)—in all sectors over three continents, Asia, Europe, and North America. Short-term transition risk is greater for firms located in countries with lower economic development, greater reliance on fossil energy, and less inclusive political systems. Long-term transition risk is higher in countries with stricter domestic, but not international, climate policies. However, transition risk cannot be explained by greater exposure to physical (or headline) risk. Yet, raising investor awareness about climate change amplifies the level of transition risk.</dc:description>
+<prism:doi>10.3386/w28510</prism:doi>
+<prism:url>http://www.nber.org/papers/w28510</prism:url></item><item><title>The “Matthew Effect” and Market Concentration: Search Complementarities and Monopsony Power1</title>
+<description>teste</description>
+<pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+<source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R2">Wiley: Econometrica: Table of Contents</source>
+<dc:creator>Jesús Fernández-Villaverde, Federico Mandelman, Yang Yu, Francesco Zanetti</dc:creator>
+<dc:title>The “Matthew Effect” and Market Concentration: Search Complementarities and Monopsony Power</dc:title>
+<dc:description>This paper develops a dynamic general equilibrium model with heterogeneous firms that face search complementarities in the formation of vendor contracts. Search complementarities amplify small differences in productivity among firms. Market concentration fosters monopsony power in the labor market, magnifying profits and further enhancing high-productivity firms&#x27; output share. Firms want to get bigger and hire more workers, in stark contrast with the classic monopsony model, where a firm aims to reduce the amount of labor it hires. The combination of search complementarities and monopsony power induces a strong “Matthew effect” that endogenously generates superstar firms out of uniform idiosyncratic productivity distributions. Reductions in search costs increase market concentration, lower the labor income share, and increase wage inequality.</dc:description>
+<prism:doi>10.3386/w28495</prism:doi>
+<prism:url>http://www.nber.org/papers/w28495</prism:url></item><item><title>Intellectual Property Infringement by Foreign Firms: Import Protection through the ITC or Court1</title>
+<description>teste</description>
+<pubDate>Fri, 15 Jan 2021 14:42:46 -0800</pubDate>
+<source url="https://www.onlinelibrary.wiley.com/journal/14680262?af=R2">Wiley: Econometrica: Table of Contents</source>
+<dc:creator>James A Brander, Barbara J Spencer</dc:creator>
+<dc:title>Intellectual Property Infringement by Foreign Firms: Import Protection through the ITC or Court</dc:title>
+<dc:description>This paper examines intellectual property litigation as a method of protection from patent-infringing imports. Claims against patent-infringing imports entering the United States may be filed before the International Trade Commission (ITC) or in district court. The ITC applies injunctions (import prohibitions) that would seem to provide more protection from infringing imports than the standard license fee remedy in court. Settlements prior to legal adjudication are common in both venues. Using a model with Nash bargaining and Cournot competition, we show that an ITC filing may restrict imports by less than in court. This result tends to apply if product differentiation is high and the size of the patented cost-reducing innovation is large.</dc:description>
+<prism:doi>10.3386/w28496</prism:doi>
+<prism:url>http://www.nber.org/papers/w28496</prism:url></item></channel></rss>
