@@ -37,7 +37,7 @@ design:
   view: 4
 ---
 
-**[The Labor Cost of Pro-Labor Bias in Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757117)** (with Aloisio Araujo, [Spyridon Lagaras](https://sites.google.com/view/spyridonlagaras/home/), Flavio Moraes, [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/) and [Margarita Tsoutsoura](http://tsoutsoura.com/)). *Updated December, 2020.*
+**[The Labor Effects of Pro-labor Bias in Bankruptcy](https://www.nber.org/papers/w28640)**. NBER Working Paper 28640. April 2021. (with Aloisio Araujo, [Spyridon Lagaras](https://sites.google.com/view/spyridonlagaras/home/), [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/) and [Margarita Tsoutsoura](http://tsoutsoura.com/)). 
 
 **Labor Courts, Job Search and Employment: Evidence from a Labor Reform in Brazil** (with [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/), [Renata Narita](https://sites.google.com/site/renatanarita/) and [Danilo Souza](https://sites.google.com/view/dpsouza/home)). *Draft coming soon.*
 
