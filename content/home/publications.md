@@ -37,11 +37,11 @@ design:
   view: 4
 ---
 
-**[The Labor Effects of Pro-labor Bias in Bankruptcy](https://www.nber.org/papers/w28640)**. NBER Working Paper 28640. April 2021. (with Aloisio Araujo, [Spyridon Lagaras](https://sites.google.com/view/spyridonlagaras/home/), [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/) and [Margarita Tsoutsoura](http://tsoutsoura.com/)). 
+**[The Labor Effects of Pro-labor Bias in Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757117)**. *Revise and Resubmit, Review of Financial Studies.* (with Aloisio Araujo, [Spyridon Lagaras](https://sites.google.com/view/spyridonlagaras/home/), [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/) and [Margarita Tsoutsoura](http://tsoutsoura.com/)). *Previous version: [NBER Working Paper](https://www.nber.org/papers/w28640).*
+
+**Female Judges and In-group Bias in Labor Courts** (with [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/), [Jaqueline Oliveira](https://sites.google.com/site/jaquemdeoliveira/) and [Danilo Souza](https://sites.google.com/view/dpsouza/home)). *Forthcoming, Economics Bulletin.*
 
 **Labor Courts, Job Search and Employment: Evidence from a Labor Reform in Brazil** (with [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/), [Renata Narita](https://sites.google.com/site/renatanarita/) and [Danilo Souza](https://sites.google.com/view/dpsouza/home)). *Draft coming soon.*
-
-**Female Judges and In-group Bias in Labor Courts** (with [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/), [Jaqueline Oliveira](https://sites.google.com/site/jaquemdeoliveira/) and [Danilo Souza](https://sites.google.com/view/dpsouza/home)). *Submitted.*
 
 **[The Brazilian bankruptcy law experience](https://doi.org/10.1016/j.jcorpfin.2012.03.001)** (with Aloisio Araujo and Bruno Funchal). *Journal of Corporate Finance*, Volume 18, Issue 4, 2012.
 
