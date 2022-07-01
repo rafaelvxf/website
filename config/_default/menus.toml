@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Work in Progress"
-  url = "#inprogress"
-  weight = 30
-
-[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 50
