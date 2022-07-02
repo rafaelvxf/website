@@ -56,4 +56,14 @@ design:
 
 **Court Congestion and Bankruptcy Resolutions: Evidence from Brazil** (with Aloisio Araujo and [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes). *Draft coming soon*.
 
+---
+
+## Work in Progress
+
+**Transmission Effects of Financial Distress on the Real Sector** *Draft coming soon*
+
+**The Effect of Social Connections on Judicial Decisions** (with Raphael Corbi and Pedro Peixoto)
+
+
+
 
