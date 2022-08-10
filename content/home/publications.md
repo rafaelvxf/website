@@ -64,7 +64,7 @@ design:
 
 **The Effect of Social Connections on Judicial Decisions** (with Raphael Corbi and Pedro Peixoto)
 
-**Disentangling punishment and enforcement effects of harsher DUI laws** (with Ricardo Guedes)
+**Disentangling Punishment and Enforcement Effects of Harsher DUI Laws** (with Ricardo Guedes)
 
 ****
 
