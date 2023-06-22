@@ -6,11 +6,11 @@ title: Rafael Ferreira
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Economics
+role: Associate Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of São Paulo (FEA-USP)
+- name: Universidade de São Paulo (FEA-USP)
   url: http://www.fea.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
