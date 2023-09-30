@@ -40,7 +40,7 @@ design:
 
 ## Publications and Accepted Papers
 
-**[The Labor Effects of Judicial Bias in Bankruptcy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757117)** (with Aloisio Araujo, [Spyridon Lagaras](https://sites.google.com/view/spyridonlagaras/home/), [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/) and [Margarita Tsoutsoura](http://tsoutsoura.com/)). *Journal of Financial Economics*. Accepted. Previous versions: **[NBER Working 28640 Paper, June 2023](https://www.nber.org/papers/w28640)** and **[SSRN version, June 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757117)**.
+**[The Labor Effects of Judicial Bias in Bankruptcy](https://doi.org/10.1016/j.jfineco.2023.103720)** (with Aloisio Araujo, [Spyridon Lagaras](https://sites.google.com/view/spyridonlagaras/home/), [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/) and [Margarita Tsoutsoura](http://tsoutsoura.com/)). Journal of Financial Economics. Volume 150, Issue 2, November 2023, 103720. Previous versions: **[NBER Working 28640 Paper, June 2023](https://www.nber.org/papers/w28640)** and **[SSRN version, June 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757117)**.
 
 **[Female Judges and In-group Bias in Labor Courts](http://www.accessecon.com/Pubs/EB/2021/Volume41/EB-21-V41-I3-P111.pdf)** (with [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/), [Jaqueline Oliveira](https://sites.google.com/site/jaquemdeoliveira/) and [Danilo Souza](https://sites.google.com/view/dpsouza/home)). *Economics Bulletin*, Volume 41, Issue 3, 2021, Pages 1313-1321.
 
