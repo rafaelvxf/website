@@ -24,3 +24,11 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+  [[redirects]]
+  from = "/office-hours"
+  to = "https://calendar.google.com/calendar/u/0?cid=Y180OGY0ZDFkN2MxYTJkYmY1Njg0NWZhYmY3MzE1NDA1OWU4OTc4NWE3OWE3NDY4YTExYTVlODU0NGEwMjg4YzUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
+
+[[redirects]]
+  from = "/in-person"
+  to = "uol.com.br"
