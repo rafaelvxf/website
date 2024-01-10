@@ -25,10 +25,18 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-  [[redirects]]
-  from = "/office-hours"
+[[redirects]]
+  from = "/walk-in"
   to = "https://calendar.google.com/calendar/u/0?cid=Y180OGY0ZDFkN2MxYTJkYmY1Njg0NWZhYmY3MzE1NDA1OWU4OTc4NWE3OWE3NDY4YTExYTVlODU0NGEwMjg4YzUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
 
 [[redirects]]
+  from = "/google-meet"
+  to = "https://calendar.app.google/8aeiS6DuvgYgGcYd6"
+
+[[redirects]]
   from = "/in-person"
-  to = "https://www.uol.com.br/"
+  to = "https://calendar.app.google/LxDqbWSvcpbYWUG17"
+
+[[redirects]]
+  from = "/appointments"
+  to = "https://calendar.google.com/calendar/u/0/appointments/AcZssZ0u5o1V4T0KrDg1fP0B6qB8KN5e7aMuMdqoZ2c="
