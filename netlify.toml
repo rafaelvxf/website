@@ -40,3 +40,7 @@
 [[redirects]]
   from = "/appointments"
   to = "https://calendar.google.com/calendar/u/0/appointments/AcZssZ0u5o1V4T0KrDg1fP0B6qB8KN5e7aMuMdqoZ2c="
+
+[[redirects]]
+  from = "/ibge-external-data"
+  to = "https://www.dropbox.com/scl/fo/bbuj3lrn6vdj50lhsfape/AOaUyG6RLKbJmussY1CI4bA?rlkey=h78fgoupbdf5wkwdiobuswkxf&st=ncs85r5r&dl=0"
