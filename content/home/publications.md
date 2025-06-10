@@ -62,7 +62,7 @@ design:
 
 ## Work in Progress
 
-**Transmission Effects of Financial Distress on the Real Sector** (with Bernardo Ricca) *Draft coming soon*
+**Transmission Effects of Financial Distress on the Real Sector** (with Bernardo Ricca).
 
 **What makes good judges?** (with Aloisio Araujo, Pedro Peixoto and [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes))
 
