@@ -54,20 +54,20 @@ design:
 
 **[Labor Courts, Job Search and Employment: Evidence from a Labor Reform in Brazil](http://dx.doi.org/10.2139/ssrn.4121304)** (with [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/), [Renata Narita](https://sites.google.com/site/renatanarita/) and [Danilo Souza](https://sites.google.com/view/dpsouza/home)). *Updated on May 2022.* Media coverage: [Valor Econômico](https://valor.globo.com/brasil/noticia/2022/05/04/regra-da-reforma-trabalhista-reduziu-desemprego-em-17-ponto-diz-estudo.ghtml), [CNN Brasil](https://www.cnnbrasil.com.br/business/estudo-aponta-regra-da-reforma-trabalhista-gerou-17-milhao-de-vagas-de-trabalho/) and [BBC Brasil](https://www.bbc.com/portuguese/brasil-61442663).
 
-**Court Congestion and Bankruptcy Resolutions: Evidence from Brazil** (with Aloisio Araujo and [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes)). *Draft available upon request*
+**[Court Congestion and Bankruptcy Resolutions: Evidence from Brazil](https://www.dropbox.com/scl/fi/1sg509cjn8irb8kgtls3q/Paper_Bankruptcy_Outcomes-4.pdf?rlkey=p441laxo5z5wc1s1qarirtety&st=1rb3dpr3&dl=0)** (with Aloisio Araujo and [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes)).
 
-**Social Connectedness and Judicial Bias** (with Pedro Souza) *Draft available upon request*
+**[Social Connectedness and Judicial Bias](https://www.dropbox.com/scl/fi/9nnsi5rfrwpz6kzfkc0lr/Social_Connectedness_and_Judicial_Bias-8.pdf?rlkey=qyk2uums0bp436z369bi7maz8&st=1wberhf7&dl=0)** (with Diogo Souza)
+
+**The 2020 Bankruptcy Law Reform in Brazil: An Analysis of the First Years of Implementation** (with Pedro Peixoto, [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes) and Aloisio Araujo) -- *Revise and Resubmit*
 
 ---
 
 ## Work in Progress
 
-**Transmission Effects of Financial Distress on the Real Sector** (with Bernardo Ricca).
+**Transmission Effects of Financial Distress on the Real Sector**
+
+**Street Network Topology and the Impact of DUI Laws** (with Ricardo Guedes)
 
 **What makes good judges?** (with Aloisio Araujo, Pedro Peixoto and [Flavio Moraes](https://flafmoraes.wixsite.com/fmoraes))
 
 ****
-
-
-
-
