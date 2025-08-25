@@ -6,7 +6,7 @@ title: Rafael Ferreira
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor of Economics
+role: Full Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
